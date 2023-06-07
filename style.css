@@ -1,0 +1,19 @@
+* {
+  margin: 0.5;
+}
+
+.titulo {
+  text-align: center;
+  border: red medium outset;
+}
+
+.photo {
+  border-radius: 100px;
+}
+.final {
+  border: lightpink 4px solid;
+}
+
+h3 {
+  text-align: center;
+}
